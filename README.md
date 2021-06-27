@@ -1,10 +1,32 @@
-# Getting Started with Create React App
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/logo.svg" width="400">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# LetMeAsk
 
-## Available Scripts
+Projeto criado em participação no NLW, evento online gratuito pela RocketSeat em Junho de 2021. 
 
-In the project directory, you can run:
+## Feito em React
+
+## Tela Inicial
+
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/home.png" width="400">
+
+## Tela Cliente
+
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/user.png" width="400">
+
+## Tela Admin
+
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/admin.png" width="400">
+
+## Funcionalidades
+
+### Logar pela conta google
+### Cria uma sala
+### Entra na sala pelo codigo da sala
+### Usuário Posta Perguntas e dar like nas perguntas
+### Admin checa as perguntas como respondida e deleta as perguntas
+
+## Lets Init
 
 ### `npm start`
 
