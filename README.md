@@ -6,27 +6,27 @@ Projeto criado em participação no NLW, evento online gratuito pela RocketSeat 
 
 ## Feito em React
 
-## Tela Inicial
+## Tela Inicial:
 
-<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/home.png" width="400">
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/home.png" width="800">
 
-## Tela Cliente
+## Tela Cliente:
 
-<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/user.png" width="400">
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/user.png" width="800">
 
-## Tela Admin
+## Tela Admin:
 
-<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/admin.png" width="400">
+<img src="https://raw.githubusercontent.com/lucianopalhares/letmeask/main/src/assets/images/prints/admin.png" width="800">
 
-## Funcionalidades
+## Funcionalidades:
 
-### Logar pela conta google
-### Cria uma sala
-### Entra na sala pelo codigo da sala
-### Usuário Posta Perguntas e dar like nas perguntas
-### Admin checa as perguntas como respondida e deleta as perguntas
+### * Logar pela conta google
+### * Cria uma sala
+### * Entra na sala pelo codigo da sala
+### * Usuário Posta Perguntas e dar like nas perguntas
+### * Admin checa as perguntas como respondida e deleta as perguntas
 
-## Lets Init
+## Lets Init - como configurar
 
 ### `npm start`
 
@@ -61,8 +61,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Done !!!
