@@ -5,14 +5,14 @@ import { auth, firebase } from '../services/firebase'
 export const AuthContext = createContext({} as AuthContextType)
 
 type User = {
-    id: string;
-    name: string;
-    avatar: string;
-  }
+    id: string
+    name: string
+    avatar: string
+}
   
 type AuthContextType = {
     user: User | undefined;
-    signInWithGoogle: () => Promise<void>;
+    signInWithGoogle: () => Promise<void>
 }
 
 type AuthContextProviderProps = {
